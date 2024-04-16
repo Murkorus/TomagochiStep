@@ -15,6 +15,7 @@ Library: C:\Git\TomagochiStep\StepcounterTomagotchi\Temp\BurstOutput\tempburstli
 --assembly-defines=Unity.2D.PixelPerfect;
 --assembly-defines=Unity.TextMeshPro;
 --assembly-defines=Unity.Profiling.Core;
+--assembly-defines=AndroidRuntimePermissions.Runtime;
 --assembly-defines=Unity.AdaptivePerformance.Samsung.Android;
 --assembly-defines=Unity.Burst;
 --assembly-defines=Unity.AdaptivePerformance;
@@ -24,6 +25,8 @@ Library: C:\Git\TomagochiStep\StepcounterTomagotchi\Temp\BurstOutput\tempburstli
 --assembly-defines=Unity.InternalAPIEngineBridge.001;
 --assembly-defines=Unity.2D.Common.Runtime;
 --assembly-defines=Unity.Timeline;
+--assembly-defines=Unity.InputSystem;
+--assembly-defines=Unity.InputSystem.ForUI;
 --assembly-defines=Unity.Mathematics;
 --assembly-defines=Unity.VisualScripting.State;
 --assembly-defines=Unity.Collections.LowLevel.ILSupport;
